@@ -16,12 +16,12 @@ This project is built with C# using the .NET 6 and PostgreSQL for database opera
 ### Prerequisites
 
 - .NET 6 SDK
-- PostgreSQL
+- MYSQL
 
 ### Installation
 
 1. Clone the repo
-2. Create a PostgreSQL database and update the connection string in `appsettings.json`
+2. Create a MYSQL database and update the connection string in `appsettings.json`
 3. Run the project
 ## Contributing
 
